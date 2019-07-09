@@ -41,7 +41,7 @@ public class HuongDanLapTrinhSwing extends javax.swing.JFrame {
     private void loadStudentFromData() {
         try {
             studentList.clear();
-            Connection conn = DriverManager.getConnection("jdbc:mysql://localhost:3306/bt182", "root", "");
+            Connection conn = DriverManager.getConnection("jdbc:mysql://localhost:3306/bt182?useUnicode=true&useJDBCCompliantTimezoneShift=true&useLegacyDatetimeCode=false&serverTimezone=UTC", "root", "");
 
             String sql = "select * from student";
 
@@ -54,7 +54,7 @@ public class HuongDanLapTrinhSwing extends javax.swing.JFrame {
                 String sex = result.getString("gender");
                 int age = result.getInt("age");
                 String email = result.getString("email");
-                String phonenumber = result.get String("phonenumber");
+                String phonenumber = result.getString("phonenumber");
 
                 Student std = new Student(no, fName, sex, age, email, phonenumber);
                 studentList.add(std);
@@ -303,10 +303,7 @@ public class HuongDanLapTrinhSwing extends javax.swing.JFrame {
         String email = txt_email.getText().toString();
         String phonenumber = txt_phonenumber.getText().toString();
 
-        if (fullname.isEmpty() || email.isEmpty() || phonenumber.isEmpty() || gender.isEmpty() || age < 0) {
-            JOptionPane.showMessageDialog(rootPane, "Nhap sai hoac thieu, vui long nhap lai!!!");
-            return;
-        }
+        
 
         Student std = null;
         if (currentIndex == -1) {
@@ -326,7 +323,7 @@ public class HuongDanLapTrinhSwing extends javax.swing.JFrame {
 
     private void insert(Student std) {
         try {
-            Connection conn = DriverManager.getConnection("jdbc:mysql://localhost:3306/bt182", "root", "");
+            Connection conn = DriverManager.getConnection("jdbc:mysql://localhost:3306/bt182?useUnicode=true&useJDBCCompliantTimezoneShift=true&useLegacyDatetimeCode=false&serverTimezone=UTC", "root", "");
 
             String sql = "";
             if (std.getNo() > 0) {
