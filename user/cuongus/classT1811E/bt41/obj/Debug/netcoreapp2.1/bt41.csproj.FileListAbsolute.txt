@@ -1,0 +1,11 @@
+C:\Users\AdminX\source\repos\classT1811E\bt41\bin\Debug\netcoreapp2.1\bt41.deps.json
+C:\Users\AdminX\source\repos\classT1811E\bt41\bin\Debug\netcoreapp2.1\bt41.runtimeconfig.json
+C:\Users\AdminX\source\repos\classT1811E\bt41\bin\Debug\netcoreapp2.1\bt41.runtimeconfig.dev.json
+C:\Users\AdminX\source\repos\classT1811E\bt41\bin\Debug\netcoreapp2.1\bt41.dll
+C:\Users\AdminX\source\repos\classT1811E\bt41\bin\Debug\netcoreapp2.1\bt41.pdb
+C:\Users\AdminX\source\repos\classT1811E\bt41\obj\Debug\netcoreapp2.1\bt41.csprojAssemblyReference.cache
+C:\Users\AdminX\source\repos\classT1811E\bt41\obj\Debug\netcoreapp2.1\bt41.csproj.CoreCompileInputs.cache
+C:\Users\AdminX\source\repos\classT1811E\bt41\obj\Debug\netcoreapp2.1\bt41.AssemblyInfoInputs.cache
+C:\Users\AdminX\source\repos\classT1811E\bt41\obj\Debug\netcoreapp2.1\bt41.AssemblyInfo.cs
+C:\Users\AdminX\source\repos\classT1811E\bt41\obj\Debug\netcoreapp2.1\bt41.dll
+C:\Users\AdminX\source\repos\classT1811E\bt41\obj\Debug\netcoreapp2.1\bt41.pdb

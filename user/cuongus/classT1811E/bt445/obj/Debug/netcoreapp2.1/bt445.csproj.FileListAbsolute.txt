@@ -1,0 +1,11 @@
+C:\Users\AdminX\source\repos\classT1811E\bt445\obj\Debug\netcoreapp2.1\bt445.csprojAssemblyReference.cache
+C:\Users\AdminX\source\repos\classT1811E\bt445\obj\Debug\netcoreapp2.1\bt445.csproj.CoreCompileInputs.cache
+C:\Users\AdminX\source\repos\classT1811E\bt445\obj\Debug\netcoreapp2.1\bt445.AssemblyInfoInputs.cache
+C:\Users\AdminX\source\repos\classT1811E\bt445\obj\Debug\netcoreapp2.1\bt445.AssemblyInfo.cs
+C:\Users\AdminX\source\repos\classT1811E\bt445\bin\Debug\netcoreapp2.1\bt445.deps.json
+C:\Users\AdminX\source\repos\classT1811E\bt445\bin\Debug\netcoreapp2.1\bt445.runtimeconfig.json
+C:\Users\AdminX\source\repos\classT1811E\bt445\bin\Debug\netcoreapp2.1\bt445.runtimeconfig.dev.json
+C:\Users\AdminX\source\repos\classT1811E\bt445\bin\Debug\netcoreapp2.1\bt445.dll
+C:\Users\AdminX\source\repos\classT1811E\bt445\bin\Debug\netcoreapp2.1\bt445.pdb
+C:\Users\AdminX\source\repos\classT1811E\bt445\obj\Debug\netcoreapp2.1\bt445.dll
+C:\Users\AdminX\source\repos\classT1811E\bt445\obj\Debug\netcoreapp2.1\bt445.pdb
