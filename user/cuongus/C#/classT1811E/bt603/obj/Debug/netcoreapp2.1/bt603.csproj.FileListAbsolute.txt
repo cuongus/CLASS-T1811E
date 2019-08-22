@@ -1,0 +1,11 @@
+C:\Users\AdminX\source\repos\classT1811E\bt603\bin\Debug\netcoreapp2.1\bt603.deps.json
+C:\Users\AdminX\source\repos\classT1811E\bt603\bin\Debug\netcoreapp2.1\bt603.runtimeconfig.json
+C:\Users\AdminX\source\repos\classT1811E\bt603\bin\Debug\netcoreapp2.1\bt603.runtimeconfig.dev.json
+C:\Users\AdminX\source\repos\classT1811E\bt603\bin\Debug\netcoreapp2.1\bt603.dll
+C:\Users\AdminX\source\repos\classT1811E\bt603\bin\Debug\netcoreapp2.1\bt603.pdb
+C:\Users\AdminX\source\repos\classT1811E\bt603\obj\Debug\netcoreapp2.1\bt603.csprojAssemblyReference.cache
+C:\Users\AdminX\source\repos\classT1811E\bt603\obj\Debug\netcoreapp2.1\bt603.csproj.CoreCompileInputs.cache
+C:\Users\AdminX\source\repos\classT1811E\bt603\obj\Debug\netcoreapp2.1\bt603.AssemblyInfoInputs.cache
+C:\Users\AdminX\source\repos\classT1811E\bt603\obj\Debug\netcoreapp2.1\bt603.AssemblyInfo.cs
+C:\Users\AdminX\source\repos\classT1811E\bt603\obj\Debug\netcoreapp2.1\bt603.dll
+C:\Users\AdminX\source\repos\classT1811E\bt603\obj\Debug\netcoreapp2.1\bt603.pdb
