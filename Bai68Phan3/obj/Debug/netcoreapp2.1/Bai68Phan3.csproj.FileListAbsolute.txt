@@ -1,0 +1,11 @@
+D:\Github\TEAM-SE-T1811E\C#\Bai68Phan3\bin\Debug\netcoreapp2.1\Bai68Phan3.deps.json
+D:\Github\TEAM-SE-T1811E\C#\Bai68Phan3\bin\Debug\netcoreapp2.1\Bai68Phan3.runtimeconfig.json
+D:\Github\TEAM-SE-T1811E\C#\Bai68Phan3\bin\Debug\netcoreapp2.1\Bai68Phan3.runtimeconfig.dev.json
+D:\Github\TEAM-SE-T1811E\C#\Bai68Phan3\bin\Debug\netcoreapp2.1\Bai68Phan3.dll
+D:\Github\TEAM-SE-T1811E\C#\Bai68Phan3\bin\Debug\netcoreapp2.1\Bai68Phan3.pdb
+D:\Github\TEAM-SE-T1811E\C#\Bai68Phan3\obj\Debug\netcoreapp2.1\Bai68Phan3.csprojAssemblyReference.cache
+D:\Github\TEAM-SE-T1811E\C#\Bai68Phan3\obj\Debug\netcoreapp2.1\Bai68Phan3.csproj.CoreCompileInputs.cache
+D:\Github\TEAM-SE-T1811E\C#\Bai68Phan3\obj\Debug\netcoreapp2.1\Bai68Phan3.AssemblyInfoInputs.cache
+D:\Github\TEAM-SE-T1811E\C#\Bai68Phan3\obj\Debug\netcoreapp2.1\Bai68Phan3.AssemblyInfo.cs
+D:\Github\TEAM-SE-T1811E\C#\Bai68Phan3\obj\Debug\netcoreapp2.1\Bai68Phan3.dll
+D:\Github\TEAM-SE-T1811E\C#\Bai68Phan3\obj\Debug\netcoreapp2.1\Bai68Phan3.pdb
