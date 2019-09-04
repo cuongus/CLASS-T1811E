@@ -65,6 +65,7 @@ namespace BT575_2
             try
             {
                 conn = DBConnect.getConnection();
+                conn.Open();
                 DBUtils.addMonHoc(conn, monHoc);
             }
             catch (Exception e)
@@ -88,6 +89,8 @@ namespace BT575_2
             try
             {
                 conn = DBConnect.getConnection();
+                conn.Open();
+
                 foreach (MonHoc monHoc in DBUtils.getMonHoc(conn))
                 {
                     monHoc.display();
@@ -120,6 +123,8 @@ namespace BT575_2
             try
             {
                 conn = DBConnect.getConnection();
+                conn.Open();
+
                 foreach (MonHoc monHoc in DBUtils.getMonHoc(conn))
                 {
                     monHoc.display();
@@ -152,6 +157,7 @@ namespace BT575_2
             try
             {
                 conn = DBConnect.getConnection();
+                conn.Open();
                 DBUtils.addSinhVien(conn, sinhVien);
             }
             catch (Exception e)
@@ -175,6 +181,7 @@ namespace BT575_2
             try
             {
                 conn = DBConnect.getConnection();
+                conn.Open();
                 foreach (SinhVien sinhVien in DBUtils.getSinhVien(conn))
                 {
                     sinhVien.display();
@@ -207,6 +214,8 @@ namespace BT575_2
             try
             {
                 conn = DBConnect.getConnection();
+                conn.Open();
+
                 foreach (SinhVien sinhVien in DBUtils.getSinhVien(conn))
                 {
                     sinhVien.display();
@@ -238,6 +247,8 @@ namespace BT575_2
             try
             {
                 conn = DBConnect.getConnection();
+                conn.Open();
+
                 foreach (MonHoc monHoc in DBUtils.getMonHoc(conn))
                 {
                     monHoc.display();
@@ -276,6 +287,7 @@ namespace BT575_2
             try
             {
                 conn = DBConnect.getConnection();
+                conn.Open();
 
                 foreach (SinhVien sinhVien in DBUtils.getSinhVien(conn))
                 {
@@ -315,7 +327,46 @@ namespace BT575_2
 
         static void option9()
         {
+            List<DiemThi> DTList = new List<DiemThi>();
+            string maSV, maMH;
+            MySqlConnection conn = null;
+            try
+            {
+                conn = DBConnect.getConnection();
+                conn.Open();
 
+                foreach (SinhVien sinhVien in DBUtils.getSinhVien(conn))
+                {
+                    foreach (MonHoc monHoc in DBUtils.getMonHoc(conn))
+                    {
+                        DTList = DBUtils.getDiemThi(conn, monHoc.MaMonHoc, sinhVien.MaSinhVien);
+                    }
+                }
+
+                foreach (DiemThi diemThi in DTList)
+                {
+                    diemThi.display();
+                }
+
+                Console.Write("Nhap ma sinh vien muon xoa diem: ");
+                maSV = Console.ReadLine();
+                Console.Write("Nhap ma mon hoc muon xoa diem: ");
+                maMH = Console.ReadLine();
+
+                DBUtils.deleteDiemThi(conn, maMH, maSV);
+            }
+            catch (Exception e)
+            {
+                Console.WriteLine(e.Message);
+            }
+            finally
+            {
+                if (conn != null)
+                {
+                    conn.Close();
+                    conn.Dispose();
+                }
+            }
         }
 
         static void menu()

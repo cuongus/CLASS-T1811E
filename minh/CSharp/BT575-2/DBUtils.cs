@@ -125,5 +125,11 @@ namespace BT575_2
             MySqlCommand cmd = new MySqlCommand("update diem_thi set diem =" + diem + "where ma_mon_hoc =" + maMH + "and ma_sinh_vien=" + maSV, conn);
             cmd.ExecuteNonQuery();
         }
+
+        public static void deleteDiemThi(MySqlConnection conn, string maMH, string maSV)
+        {
+            MySqlCommand cmd = new MySqlCommand("delete from diem_thi where ma_mon_hoc =" + maMH + "and ma_sinh_vien=" + maSV, conn);
+            cmd.ExecuteNonQuery();
+        }
     }
 }
