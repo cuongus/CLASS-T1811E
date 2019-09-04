@@ -26,6 +26,30 @@ namespace BT575_2
                     case 3:
                         option3();
                         break;
+                    case 4:
+                        option4();
+                        break;
+                    case 5:
+                        option5();
+                        break;
+                    case 6:
+                        option6();
+                        break;
+                    case 7:
+                        option7();
+                        break;
+                    case 8:
+                        option8();
+                        break;
+                    case 9:
+                        option9();
+                        break;
+                    case 10:
+                        Console.WriteLine("Goodbye.");
+                        break;
+                    default:
+                        Console.WriteLine("Wrong choose.");
+                        break;
                 }
 
             } while (choose != 10);
