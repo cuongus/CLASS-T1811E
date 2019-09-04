@@ -1,0 +1,11 @@
+D:\VisualStudioSource\BaiTap630\obj\Debug\netcoreapp2.1\BaiTap630.csprojAssemblyReference.cache
+D:\VisualStudioSource\BaiTap630\obj\Debug\netcoreapp2.1\BaiTap630.csproj.CoreCompileInputs.cache
+D:\VisualStudioSource\BaiTap630\obj\Debug\netcoreapp2.1\BaiTap630.AssemblyInfoInputs.cache
+D:\VisualStudioSource\BaiTap630\obj\Debug\netcoreapp2.1\BaiTap630.AssemblyInfo.cs
+D:\VisualStudioSource\BaiTap630\bin\Debug\netcoreapp2.1\BaiTap630.deps.json
+D:\VisualStudioSource\BaiTap630\bin\Debug\netcoreapp2.1\BaiTap630.runtimeconfig.json
+D:\VisualStudioSource\BaiTap630\bin\Debug\netcoreapp2.1\BaiTap630.runtimeconfig.dev.json
+D:\VisualStudioSource\BaiTap630\bin\Debug\netcoreapp2.1\BaiTap630.dll
+D:\VisualStudioSource\BaiTap630\bin\Debug\netcoreapp2.1\BaiTap630.pdb
+D:\VisualStudioSource\BaiTap630\obj\Debug\netcoreapp2.1\BaiTap630.dll
+D:\VisualStudioSource\BaiTap630\obj\Debug\netcoreapp2.1\BaiTap630.pdb
