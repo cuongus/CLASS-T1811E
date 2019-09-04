@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Github\\TEAM-SE-T1811E\\C#\\Bai83\\Bai83.csproj": {}
+    "D:\\Github\\TEAM-SE-T1811E\\CSharp\\Bai83\\Bai83.csproj": {}
   },
   "projects": {
-    "D:\\Github\\TEAM-SE-T1811E\\C#\\Bai83\\Bai83.csproj": {
+    "D:\\Github\\TEAM-SE-T1811E\\CSharp\\Bai83\\Bai83.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Github\\TEAM-SE-T1811E\\C#\\Bai83\\Bai83.csproj",
+        "projectUniqueName": "D:\\Github\\TEAM-SE-T1811E\\CSharp\\Bai83\\Bai83.csproj",
         "projectName": "Bai83",
-        "projectPath": "D:\\Github\\TEAM-SE-T1811E\\C#\\Bai83\\Bai83.csproj",
+        "projectPath": "D:\\Github\\TEAM-SE-T1811E\\CSharp\\Bai83\\Bai83.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "D:\\Github\\TEAM-SE-T1811E\\C#\\Bai83\\obj\\",
+        "outputPath": "D:\\Github\\TEAM-SE-T1811E\\CSharp\\Bai83\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\Microsoft\\Xamarin\\NuGet\\",

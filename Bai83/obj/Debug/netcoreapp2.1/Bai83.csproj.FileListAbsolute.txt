@@ -1,0 +1,8 @@
+D:\Github\TEAM-SE-T1811E\CSharp\Bai83\bin\Debug\netcoreapp2.1\Bai83.deps.json
+D:\Github\TEAM-SE-T1811E\CSharp\Bai83\bin\Debug\netcoreapp2.1\Bai83.runtimeconfig.json
+D:\Github\TEAM-SE-T1811E\CSharp\Bai83\bin\Debug\netcoreapp2.1\Bai83.runtimeconfig.dev.json
+D:\Github\TEAM-SE-T1811E\CSharp\Bai83\bin\Debug\netcoreapp2.1\Bai83.dll
+D:\Github\TEAM-SE-T1811E\CSharp\Bai83\obj\Debug\netcoreapp2.1\Bai83.csprojAssemblyReference.cache
+D:\Github\TEAM-SE-T1811E\CSharp\Bai83\obj\Debug\netcoreapp2.1\Bai83.csproj.CoreCompileInputs.cache
+D:\Github\TEAM-SE-T1811E\CSharp\Bai83\obj\Debug\netcoreapp2.1\Bai83.AssemblyInfoInputs.cache
+D:\Github\TEAM-SE-T1811E\CSharp\Bai83\obj\Debug\netcoreapp2.1\Bai83.AssemblyInfo.cs
